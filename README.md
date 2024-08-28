@@ -36,8 +36,7 @@ My toolkit includes, but is not limited to:
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="50" height="50" />&nbsp; 
 
  <img src=" https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="50" height="50" />&nbsp; 
-  <img src="https://github.com/devicons/devicon/commit/d98a72cb9a6d8e543ddbddc32bac231572349e96#diff-1ab0c6305edef0dcce0486c28c302469b9102705baa7cbedbc146836c0d92dda" title="express" alt="express" width="50" height="50" />&nbsp; 
-
+ 
 
  
 </div>

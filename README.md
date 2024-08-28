@@ -31,9 +31,14 @@ My toolkit includes, but is not limited to:
 <div>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="50" height="50" />&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="50" height="50" />&nbsp; 
 
-  
+ <img src=" https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="50" height="50" />&nbsp; 
+  <img src="https://github.com/devicons/devicon/commit/d98a72cb9a6d8e543ddbddc32bac231572349e96#diff-7044fc07c894c71b692f99229af2cf0899eb321f655ab0f75cfc4ed6e88aba57" title="express" alt="express" width="50" height="50" />&nbsp; 
+
+ 
 </div>
 
 ### Tools & Platforms: 

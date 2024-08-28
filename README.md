@@ -6,7 +6,7 @@
 
 
 
-# Hey there, it's a pleasure to meet you! 👋
+# HEY 👋 ,WELCOME TO MY PROFILE 
 
 ### About Me
 Welcome to my world of creative domain, I am a
@@ -14,9 +14,7 @@ Frontend Web Developer and programmer  as i  was fascinated with digital  creati
 
 ### Experience
 Im an intern in FULL STACK ACADEMY since 4months simultaneously completing MERN full stack web development course.
-<br><br>
-
-
+<br>
 What sets FULL STACK ACADEMY apart from other academy was assignments,teaching skills and more over motivating to start over own projects to gain confidence and experience. 
 My toolkit includes, but is not limited to:
 
@@ -33,7 +31,8 @@ My toolkit includes, but is not limited to:
 <div>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
-  <img src="" title="Nextjs" alt="NextJS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
+
   
 </div>
 

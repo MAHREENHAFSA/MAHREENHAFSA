@@ -10,13 +10,18 @@
 
 ### About Me
 Welcome to my world of creative domain, I am a
-Frontend Web Developer and programmer  as i  was fascinated with digital  creativity since i got introduced with websites like google ,twitter,instagram and facebook. I enjoy bringing a static design or idea to life and learning new technologies in the process.
+Frontend Web Developer and programmer  as i  was fascinated with digital  creativity since i got introduced with websites like google ,twitter,instagram and facebook. I enjoy bringing a static design or idea to life and learning new technologies in the process.<br/>
 
 ### Experience
-Im an intern in FULL STACK ACADEMY since 4months simultaneously completing MERN full stack web development course.
-<br>
-What sets FULL STACK ACADEMY apart from other academy was assignments,teaching skills and more over motivating to start over own projects to gain confidence and experience. 
-My toolkit includes, but is not limited to:
+Frontend Developer with hands-on experience building responsive, accessible, and user-friendly web applications using React, JavaScript, HTML, and CSS.
+
+I've worked in project-based environments where I translated design requirements into clean, functional UI components — integrating APIs, optimizing performance, and applying cross-browser compatibility best practices along the way.<br/>
+
+Currently deepening my expertise in Data Structures & Algorithms, Artificial Intelligence, and advanced web development as I look to grow into full-stack roles.
+<br/>
+I bring strong communication and collaboration skills, a detail-oriented approach to code quality, and a continuous-learning mindset.
+<br/>
+📍 Based in Bolingbrook, IL · U.S. Citizen · Open to full-time frontend/full-stack roles:
 
  #### Languages 
 <div>
